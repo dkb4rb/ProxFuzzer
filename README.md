@@ -26,8 +26,10 @@ ProxFuzzer
   <a href="#download">Download</a> •
   <a href="#license">License</a>
 </p>
+<center>
 
-![screenshot](https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/Present.gif))
+  ![screenshot](https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/Present.gif))
+</center>
 
 # Key Features
 
