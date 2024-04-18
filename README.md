@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin:auto; margin-left: 100px;"></a>
+  <a href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin:auto; margin-left: 200px;"></a>
   ProxFuzzer
   <br>
 </h1>
