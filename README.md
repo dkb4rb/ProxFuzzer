@@ -1,5 +1,5 @@
 <h1 align="center">
-<a  href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 250px!importan;"></a>
+<a  href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 250px!importan;margin-bottom: -10px;"></a>
 <br>
 ProxFuzzer
 </h1>
