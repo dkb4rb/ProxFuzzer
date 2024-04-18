@@ -1,5 +1,5 @@
 <h1 align="center">
-<a  href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 200px;"></a>
+<a  href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 200px!importan;"></a>
 ProxFuzzer
 </h1>
 
@@ -26,7 +26,7 @@ ProxFuzzer
   <a href="#license">License</a>
 </p>
 
-![screenshot]([https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif](https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/Present.gif))
+![screenshot](https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/Present.gif))
 
 # Key Features
 
