@@ -1,7 +1,7 @@
+<a  align="center" href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 200px;"></a>
+ProxFuzzer
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-left: 200px;"></a>
-</h1>
+---
 
 <h4 align="center">A minimal Tool to fuzzing and bypass Proxy parameter and security <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
