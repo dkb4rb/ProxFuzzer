@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin-top: -10px;"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/image.svg" alt="ProxFuzzer" width="300" style="margin:auto;"></a>
   ProxFuzzer
   <br>
 </h1>
